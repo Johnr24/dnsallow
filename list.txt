@@ -1,1 +1,3 @@
-*nationalgrideso.com
+||nationalgrideso.com^
+||smetrics.nationalgrid.com^
+||smetrics.nationalgrideso.com^
